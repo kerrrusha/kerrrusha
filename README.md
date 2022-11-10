@@ -10,17 +10,10 @@
 
 ✈️ Travel inspires me. Before the start of the war in Ukraine, I managed to visit India, Spain, Greece, Turkey, as well as at a Metallica concert in the Czech Republic in _2019_. Also, I love long car trips - in 2022 I visited some of the most beautiful places in the center of Ukraine.
 
-## 🏅 Achievements
+## 🏅 Certificates
 
--   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
--   🏆 **Top Rated** at _Upwork_ (September 2021)
--   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
--   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
--   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
--   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
+-   📜 **Software Engineering School 2022** from _Genesis_ (SDLC, Clean Code Principles, Software Testing, SOLID and GRASP, GoF Patterns, DB - SQL, NoSQL, Caching, Layered Architecture, Monolit VS Microservice architecture, Event Bus and Message Broker, Cloud - AWS, CI/CD) (October 2022)
+-   📝 **Learn to Program - Crafting Quality Code** from _University of Toronto_ (software testing and documentation) (June 2022)
 
 ## 🛠️ Skills
 
