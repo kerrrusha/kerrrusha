@@ -6,7 +6,7 @@
 
 👨‍💻 I have been in the IT field since 2018, when I started writing my first C++ programs. During this time, I have developed projects in many areas of the IT industry, such as: full-stack web application (Spring, ASP.NET, PHP) and chat-bots on Python (for Discord and Telegram, hosted on AWS), writing microservices (Golang), game development (C++, Python, Unity), creation of desktop programs (.NET Framework). In 2022, I improved my skills in ORM technologies (Entity Framework, Hybernate), programming patterns, SOLID and other clean code principles, had experience with message brokers (RabbitMQ). Also, I had training experience in such large companies as **EPAM** (Java Development Lab 2022), as well as **Genesis** (School of Software Developers 2022, Middle level), certificates of which can be found on my [**linkedin**](https://www.linkedin.com/in/kerrrusha) page.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+🎸 In my free time, I play the electric guitar (you can check out my solos [**here**](https://youtu.be/co83lESfEEM), make delicious hookahs, do amateur 3D modeling, and also read and study new technologies.
 
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
