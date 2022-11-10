@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Kirill Koval, a **Backend Software Engineer** (specializing in **Java Business-Solutions**). I have been working in _DataOx_ since 09.2022 as a **Java Software Engineer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
+🎓 I am Kirill Koval, a **Backend Software Engineer** (specializing in **Java Business Solutions**). I have been working in _DataOx_ since 09.2022 as a **Java Software Engineer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** in Kyiv Polytechnic Institute and will graduate in mid-2024.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 I have been in the IT field since 2018, when I started writing my first C++ programs. During this time, I have developed projects in many areas of the IT industry, such as: full-stack web application development (Spring, ASP.NET, PHP), writing microservices (Golang), game development (C++, Python, Unity), creation of desktop programs (.NET Framework). In 2022, I improved my skills in ORM technologies (Entity Framework, Hybernate), programming patterns, SOLID and other clean code principles, had experience with message brokers (RabbitMQ). Also, I had training experience in such large companies as EPAM (Java Development Lab 2022), as well as Genesis (School of Software Developers 2022, Middle level), certificates of which can be found on my [**linkedin**](linkedin.com/in/kerrrusha) page.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
