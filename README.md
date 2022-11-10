@@ -19,10 +19,13 @@
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.NET&logoColor=white)
+![python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![golang](https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go&logoColor=blue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![php](https://img.shields.io/badge/PHP-4D588E?style=for-the-badge&logo=php&logoColor=white)
+![javascript](https://img.shields.io/badge/C++-6295CB?style=for-the-badge&logo=C++&logoColor=white)
 
 ### Front-End Development
 
