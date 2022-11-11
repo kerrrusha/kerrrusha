@@ -31,6 +31,7 @@
 
 ![spring](https://img.shields.io/badge/spring-5FB832?style=for-the-badge&logo=spring&logoColor=white)
 ![asp.net](https://img.shields.io/badge/ASP.NET-652076?style=for-the-badge&logo=.net&logoColor=white)
+![hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![microsoft_sql_server](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft_sql_server&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
