@@ -6,7 +6,7 @@
 
 👨‍💻 I have been in the IT field since 2018, when I started writing my first C++ programs. During this time, I have developed projects in many areas of the IT industry, such as: full-stack web application (Spring, ASP.NET, PHP) and chat-bots on Python (for Discord and Telegram, hosted on AWS), writing microservices (Golang), game development (C++, Python, Unity), creation of desktop programs (.NET Framework). In 2022, I improved my skills in ORM technologies (Entity Framework, Hybernate), programming patterns, SOLID and other clean code principles, had experience with message brokers (RabbitMQ). Also, I had training experience in such large companies as **EPAM** (Java Development Lab 2022), as well as **Genesis** (Software Engineering School 2022, Middle level), certificates of which can be found on my [**linkedin**](https://www.linkedin.com/in/kerrrusha) page.
 
-🎸 In my free time, I play the electric guitar (solo of _Metallica_ - _One_ in my performance can be found [**here**](https://youtu.be/co83lESfEEM)), make delicious hookahs, do amateur 3D modeling, and also read and study new technologies. Also, i'm really excited skiing and diving.
+🎸 In my free time, I play the electric guitar (solo of _Metallica_ - _One_ in my performance can be found [**here**](https://youtu.be/co83lESfEEM)), make delicious hookahs, do amateur 3D modeling, and study new technologies. Also, i'm really excited skiing and diving.
 
 ✈️ Travel inspires me. Before the start of the war in Ukraine, I managed to visit India, Spain, Greece, Turkey, as well as at a Metallica concert in the Czech Republic in _2019_. Also, I love long car trips - in 2022 I visited some of the most beautiful places in the center of Ukraine.
 
