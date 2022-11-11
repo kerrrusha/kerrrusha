@@ -8,7 +8,7 @@
 
 🎸 In my free time, I play the electric guitar (solo of _Metallica_ - _One_ in my performance can be found [**here**](https://youtu.be/co83lESfEEM)), make delicious hookahs, do amateur 3D modeling, and study new technologies. Also, i enjoy mountain skiing, freediving and car rides.
 
-✈️ Travel inspires me. Before the start of the war in Ukraine, I managed to visit India, Spain, Greece, Turkey, as well as at a Metallica concert in the Czech Republic in _2019_. Also, I love long car trips - in 2022 I visited some of the most beautiful places in the center of Ukraine.
+✈️ Travel inspires me. Before the start of the war in Ukraine, I managed to visit India, Spain, Greece, Turkey, as well as a Metallica concert in the Czech Republic in _2019_. Also, I love long car trips - in 2022 I visited some of the most beautiful places in the center of Ukraine.
 
 ## 🏅 Certificates
 
