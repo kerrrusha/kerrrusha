@@ -31,6 +31,10 @@
 
 ![spring](https://img.shields.io/badge/spring-5FB832?style=for-the-badge&logo=spring&logoColor=white)
 ![asp.net](https://img.shields.io/badge/ASP.NET-652076?style=for-the-badge&logo=.net&logoColor=white)
+![microsoft_sql_server](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft_sql_server&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2391E6?style=for-the-badge&logo=docker&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
