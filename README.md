@@ -48,6 +48,8 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=kerrrusha&show_icons=true&hide_border=true" alt="Kirill Koval's GitHub Stats">
     <br />
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerrrusha&show_icons=true&locale=en&layout=compact" alt="kerrrusha" /></p>
+    <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kerrrusha.kerrrusha" alt="visitors">
 </div>
 
