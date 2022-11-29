@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Kirill Koval, a **Backend Software Engineer** (specializing in **Java Business Solutions**). I have been working in _DataOx_ since 09.2022 as a **Java Software Engineer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** in Kyiv Polytechnic Institute and will graduate in mid-2024.
+🎓 I am Kirill Koval, a **Backend Software Engineer** (specializing in **Java Business Solutions**). I have been working in _DataOx_ since 09.2022 as a **Java Software Engineer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** in Kyiv Polytechnic Institute and will graduate in 2024.
 
 👨‍💻 I have been in the IT field since 2018, when I started writing my first C++ programs. During this time, I have developed projects in many areas of the IT industry, such as: full-stack web application (Spring, ASP.NET, PHP) and chat-bots on Python (for Discord and Telegram, hosted on AWS), writing microservices (Golang), game development (C++, Python, Unity), creation of desktop programs (.NET Framework). In 2022, I improved my skills in ORM technologies (Entity Framework, Hybernate), programming patterns, SOLID and other clean code principles, had experience with message brokers (RabbitMQ). Also, I had training experience in such large companies as **EPAM** (Java Development Lab 2022), as well as **Genesis** (Software Engineering School 2022, Middle level), certificates of which can be found on my [**linkedin**](https://www.linkedin.com/in/kerrrusha) page.
 
