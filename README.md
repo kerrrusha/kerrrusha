@@ -10,6 +10,11 @@
 
 ✈️ Travel inspires me. Before the start of the war in Ukraine, I managed to visit India, Spain, Greece, Turkey, as well as a Metallica concert in the Czech Republic in _2019_. Also, I love long car trips - in 2022 I visited some of the most beautiful places in the center of Ukraine.
 
+## 💪 Work Experience
+
+-   **Java Software Engineer** at _DataOx_ (Data scraping, parsing and processing) (October 2022 - Present)
+-   **Java Mentor** at _Mate Academy_ (Students support, HW reviews, tech-checks, QnA) (October 2023 - Present)
+  
 ## 🏅 Certificates
 
 -   **Software Engineering School 2022** from _Genesis_ (SDLC, Clean Code Principles, Software Testing, SOLID and GRASP, GoF Patterns, DB - SQL, NoSQL, Caching, Layered Architecture, Monolit VS Microservice architecture, Event Bus and Message Broker, Cloud - AWS, CI/CD) (October 2022)
