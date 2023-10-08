@@ -20,10 +20,10 @@
 -   [**Spring - Ecosystem and Core** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/ZPZB7KDRF3L8)
 -   [**Spring Data Repositories** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/25ZJZ7LVCH3D)
 -   [**Spring MVC, Spring Boot and Rest Controllers** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/AFWBMKRS2PN6)
--   **Software Engineering School 2022** from _Genesis_ (SDLC, Clean Code Principles, Software Testing, SOLID and GRASP, GoF Patterns, DB - SQL, NoSQL, Caching, Layered Architecture, Monolit VS Microservice architecture, Event Bus and Message Broker, Cloud - AWS, CI/CD) (October 2022)
--   **Java Sertification** from _SoftServe_ (Java · Java Database Connectivity (JDBC) · Java Concurrency · Object-Oriented Programming (OOP)) (June 2023)
--   **English Sertification** from _SoftServe_ (sertificated English level as INTERMEDIATE) (July 2023)
--   **IT Marathon** from _EPAM_ (web product development - planning, description of requirements, use cases, scheduling, development of front and back components of the application, deployment to the server, testing) (December 2022)
+-   [**Software Engineering School 2022** from _Genesis_ (SDLC, Clean Code Principles, Software Testing, SOLID and GRASP, GoF Patterns, DB - SQL, NoSQL, Caching, Layered Architecture, Monolit VS Microservice architecture, Event Bus and Message Broker, Cloud - AWS, CI/CD) (October 2022)](https://drive.google.com/file/d/1oqMx5GNcFn5mn6v9dlWt9ntWYW1Wg4Vl/view)
+-   [**Java Sertification** from _SoftServe_ (Java · Java Database Connectivity (JDBC) · Java Concurrency · Object-Oriented Programming (OOP)) (June 2023)](https://drive.google.com/file/d/1yBgycLLHgnyN6Uc_Uhwr5q4VN5_jurCx/view?usp=sharing)
+-   [**English Sertification** from _SoftServe_ (sertificated English level as INTERMEDIATE) (July 2023)](https://drive.google.com/file/d/11KFPyQCwCoy3JyiZOVkss-lRrauavwct/view?usp=sharing)
+-   [**IT Marathon** from _EPAM_ (web product development - planning, description of requirements, use cases, scheduling, development of front and back components of the application, deployment to the server, testing) (December 2022)](https://certificates.epam.com/certificates/282d4570-58e9-4a27-87ae-9bbfb4bd06e8)
 
 ## 🛠️ Skills
 
