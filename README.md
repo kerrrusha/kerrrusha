@@ -17,6 +17,7 @@
   
 ## 🏅 Certificates
 
+-   [**Spring Framework 5: Beginner to Guru** from _John Thompson_ (Jan 2024)](https://www.udemy.com/certificate/UC-b2632583-ed6c-4b59-8d3d-e8e8265d4b5c/)
 -   [**Spring - Ecosystem and Core** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/ZPZB7KDRF3L8)
 -   [**Spring Data Repositories** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/25ZJZ7LVCH3D)
 -   [**Spring MVC, Spring Boot and Rest Controllers** from _LearnQuest_ (Dec 2022)](https://www.coursera.org/account/accomplishments/certificate/AFWBMKRS2PN6)
