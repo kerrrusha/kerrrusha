@@ -62,7 +62,7 @@
     <br />
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerrrusha&show_icons=true&locale=en&layout=compact" alt="kerrrusha" /></p>
     <br />
-    <p><img src="https://www.codewars.com/users/kerrrusha/badges/large" alt="codewars" /></p>
+    <a href="https://www.codewars.com/users/kerrrusha"><img src="https://www.codewars.com/users/kerrrusha/badges/large" alt="codewars" /></a>
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kerrrusha.kerrrusha" alt="visitors">
 </div>
