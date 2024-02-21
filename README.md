@@ -67,6 +67,15 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kerrrusha.kerrrusha" alt="visitors">
 </div>
 
+<div align="center">
+  <a href="https://github.com/kerrrusha">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerrrusha&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerrrusha&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerrrusha&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kerrrusha&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerrrusha&theme=2077" height="180em" />
+</div>
+
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kerrrusha/)
