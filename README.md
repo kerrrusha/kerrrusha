@@ -56,18 +56,6 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kerrrusha&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=kerrrusha&show_icons=true&hide_border=true" alt="Kirill Koval's GitHub Stats">
-    <br />
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerrrusha&show_icons=true&locale=en&layout=compact" alt="kerrrusha" /></p>
-    <br />
-    <a href="https://www.codewars.com/users/kerrrusha" target="_blank"><img src="https://www.codewars.com/users/kerrrusha/badges/large" alt="codewars" /></a>
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kerrrusha.kerrrusha" alt="visitors">
-</div>
-
-<div align="center">
   <a href="https://github.com/kerrrusha">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerrrusha&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerrrusha&theme=2077" height="180em" />
