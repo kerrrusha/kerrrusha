@@ -12,7 +12,8 @@
 
 ## 💪 Work Experience
 
--   **Middle Java Developer** at _ThingsBoard_ (IoT) (2024 - Present)
+-   **Middle Java Developer** at _Edvantis_ (2025 - present)
+-   **Middle Java Developer** at _ThingsBoard_ (IoT) (2024 - 2025)
 -   **Java Software Engineer** at _DataOx_ (Data scraping, parsing and processing) (2022 - 2024)
 -   **Java Mentor** at _Mate Academy_ (Students support, HW reviews, tech-checks, QnA) (2023 - 2024)
   
